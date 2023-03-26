@@ -1,0 +1,33 @@
+Day 1 class notes
+----------------------------
+
+protocol | ip address | port | address of the file
+
+http://192.168.0.104:5500/day1/index.html - unique address
+http://127.0.0.1:5500/day1/index.html - nickname1
+http://localhost:5500/day1/index.html - nickname2
+
+URL is the abbreviation of Uniform Resource Locator
+
+Repository: a place to store the code
+Github - a platform which creates repository
+git installed in my local system -
+
+
+Command line commands
+
+dir  - provides directory information how many files it has
+cd   - change directory 
+cd .. --  move out of directoy
+cd foldername  - go inside particular folder in the directory
+
+Git commands
+
+1. git clone repository url   - copying code repo in local system
+2. cd repo 
+3. work on files create new files and we are ready to move these to github repo
+5. git status  - checks the changes in current local repo 
+5. git add *  , git add <individual file name>
+6. git commit -m "commit message"
+7. git push origin  - pushing the latest committed code to github repo  
+
